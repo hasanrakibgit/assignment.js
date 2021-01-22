@@ -29,8 +29,8 @@ function hotelCost(days){
 
 }
 
-var names = ['Raki','', 'hasan', 'jaidnio', 'Rakibul' ];
-function megaFriend(){                    //
+
+function megaFriend(){                    //var names = ['Raki','', 'hasan', 'jaidnio', 'Rakibul' ];
     var max = names[0];
      for(var i=0; i<names.length; i++){
             var box = names[i];
